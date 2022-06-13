@@ -1,7 +1,8 @@
 {
-  "name": "portfolio-using-reactjs",
+  "name": "portfolio-upgradation",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chitti12.github.io",
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@iconscout/react-unicons": "^1.1.6",
@@ -40,5 +41,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
