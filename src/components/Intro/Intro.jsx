@@ -34,10 +34,21 @@ export const Intro = () => {
         <button className="button 
         i-button">Hire Me!</button>
         <div className="i-icons">
-            
+            <a href='https://github.com/chitti12'>
+              <div className="github-social">
             <img src={Github} alt="" />
+            </div>
+            </a>
+            <a href='https://www.linkedin.com/in/chittipriya-verma-985069199/'>
+              <div className="linkedin-social">
             <img src={Linkedin} alt="" />
+            </div>
+            </a>
+            <a href='https://www.instagram.com/chittipriya23/'>
+              <div className="instagram-social"> 
             <img src={Instagram} alt="" />
+            </div>
+            </a>
         </div>
 
         </div>
