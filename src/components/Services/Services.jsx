@@ -23,7 +23,7 @@ const Services = () => {
             <br />
             inventore dolore, magni sit. Officiis natus nihil, blanditiis explicabo laborum quo nisi incidunt labore maxime architecto. Molestiae.
         </spane>
-<a href="{https://drive.google.com/file/d/1y0A9icGNdPyVWoiX0utd8m9-jtBHZO0Q/view?usp=sharing} download">
+        <a href="{Resume-Chittipriya} download">
         <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{background: "#ABF1FF94"}}></div>
